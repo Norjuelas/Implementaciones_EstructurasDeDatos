@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Estructura_de_datos_d34c681a"
+        },
+        {
+            "type": "java",
+            "name": "HackerRank",
+            "request": "launch",
+            "mainClass": "sequential.HackerRank",
+            "projectName": "Estructura_de_datos_d34c681a"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTree",
+            "request": "launch",
+            "mainClass": "sequential.BinaryTree",
+            "projectName": "Estructura_de_datos_d34c681a"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "sequential.Solution",
+            "projectName": "Estructura_de_datos_d34c681a"
+        },
+        {
+            "type": "java",
+            "name": "EspacioHackerrank",
+            "request": "launch",
+            "mainClass": "sequential.EspacioHackerrank",
+            "projectName": "Estructura_de_datos_d34c681a"
+        },
+        {
+            "type": "java",
+            "name": "TareaRobots",
+            "request": "launch",
+            "mainClass": "sequential.TareaRobots",
+            "projectName": "Estructura_de_datos_d34c681a"
+        },
+        {
+            "type": "java",
+            "name": "ListaDobleprueb",
+            "request": "launch",
+            "mainClass": "sequential.ListaDobleprueb",
+            "projectName": "Estructura_de_datos_d34c681a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ListaDobleEnlaz",
+            "request": "launch",
+            "mainClass": "sequential.ListaDobleEnlaz",
+            "projectName": "Estructura_de_datos_d34c681a"
+        },
+        {
+            "type": "java",
+            "name": "ListaEnlazada",
+            "request": "launch",
+            "mainClass": "sequential.ListaEnlazada",
+            "projectName": "Estructura_de_datos_d34c681a"
+        },
+        {
+            "type": "java",
+            "name": "Prueba",
+            "request": "launch",
+            "mainClass": "sequential.Prueba",
+            "projectName": "Estructura_de_datos_d34c681a"
+        },
+        {
+            "type": "java",
+            "name": "TareaDos",
+            "request": "launch",
+            "mainClass": "sequential.TareaDos",
+            "projectName": "Estructura_de_datos_d34c681a"
+        }
+    ]
+}
