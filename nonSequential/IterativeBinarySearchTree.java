@@ -10,6 +10,14 @@ public class IterativeBinarySearchTree<T extends Comparable<T>> implements Binar
 
     protected TreeNode<T> root;
 
+
+    public TreeNode<T> getRoot() {
+        return root;
+    }
+
+    public void setRoot(TreeNode<T> root) {
+        this.root = root;
+    }
     public IterativeBinarySearchTree(T data) {
         this.root = new TreeNode<>(data);
     }

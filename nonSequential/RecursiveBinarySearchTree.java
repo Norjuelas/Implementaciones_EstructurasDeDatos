@@ -6,7 +6,6 @@ import util.TreeNode;
 
 
 public class RecursiveBinarySearchTree<T extends Comparable<T>> implements BinarySearchTree<T> {
-
     protected TreeNode<T> root;
 
     public RecursiveBinarySearchTree(T data) {
@@ -15,6 +14,10 @@ public class RecursiveBinarySearchTree<T extends Comparable<T>> implements Binar
 
     public RecursiveBinarySearchTree() {
         this.root = null;
+    }
+
+    public TreeNode<T> getRoot() {
+        return root;
     }
 
     @Override
